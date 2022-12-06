@@ -265,7 +265,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fastify@npm:*":
+"fastify@npm:*, fastify@npm:4.10.2":
   version: 4.10.2
   resolution: "fastify@npm:4.10.2"
   dependencies:
@@ -509,7 +509,7 @@ __metadata:
   dependencies:
     "@fastify/cookie": 8.3.0
     "@fastify/multipart": 7.3.0
-    fastify: 4.9.2
+    fastify: 4.10.2
   languageName: unknown
   linkType: soft
 

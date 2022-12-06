@@ -25,13 +25,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fastify/cookie@npm:8.2.0":
-  version: 8.2.0
-  resolution: "@fastify/cookie@npm:8.2.0"
+"@fastify/cookie@npm:8.3.0":
+  version: 8.3.0
+  resolution: "@fastify/cookie@npm:8.3.0"
   dependencies:
     cookie: ^0.5.0
     fastify-plugin: ^4.0.0
-  checksum: eb42d5b899e2583fe265e4438e940c4058a9ec2d9af295ad13021efef73340f5c5a1eb6541a91e915ff868cfe553102ed699bdc89062c3e966a61add16e2d55f
+  checksum: d5dfb5c85d4ae02188aad63c8cf055d3b904287bc2750964ee0b8589c5b5ae32850e8fc9456a8830e9f4e9f24d5059e54dac084835d6ef4cbba7fa4b9c4673b3
   languageName: node
   linkType: hard
 
@@ -507,7 +507,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "renovate-yarnrc@workspace:."
   dependencies:
-    "@fastify/cookie": 8.2.0
+    "@fastify/cookie": 8.3.0
     "@fastify/multipart": 7.2.0
     fastify: 4.9.2
   languageName: unknown

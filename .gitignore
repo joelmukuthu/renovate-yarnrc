@@ -1,0 +1,10 @@
+# yarn's directories (without Zero install)
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# yarn's log files
+yarn-*.log

@@ -1,0 +1,9 @@
+{
+  "name": "renovate-yarnrc",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Joel Mukuthu",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "yarn@3.3.0"
+}

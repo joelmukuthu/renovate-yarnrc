@@ -58,9 +58,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fastify/multipart@npm:7.2.0":
-  version: 7.2.0
-  resolution: "@fastify/multipart@npm:7.2.0"
+"@fastify/multipart@npm:7.3.0":
+  version: 7.3.0
+  resolution: "@fastify/multipart@npm:7.3.0"
   dependencies:
     "@fastify/busboy": ^1.0.0
     "@fastify/deepmerge": ^1.0.0
@@ -70,7 +70,7 @@ __metadata:
     hexoid: ^1.0.0
     secure-json-parse: ^2.4.0
     stream-wormhole: ^1.1.0
-  checksum: 63f5d52108f781cb0e3a4f7e90fb12d679f5095e1735cd73a54366a24e15b082659bc4c91701ead231b734761d3746df4715da3cd9a31d0f3adc01ff5cdb2dc5
+  checksum: 192fc4f0892c34d342a3673c6522e13c0987747c4972b52ea48ca7978ea54b5a892d4594778b643dc35f37f429496b13a4e244d8c7eef60a852fadb52144fcbe
   languageName: node
   linkType: hard
 
@@ -508,7 +508,7 @@ __metadata:
   resolution: "renovate-yarnrc@workspace:."
   dependencies:
     "@fastify/cookie": 8.3.0
-    "@fastify/multipart": 7.2.0
+    "@fastify/multipart": 7.3.0
     fastify: 4.9.2
   languageName: unknown
   linkType: soft

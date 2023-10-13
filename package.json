@@ -9,6 +9,6 @@
   "dependencies": {
     "@fastify/cookie": "8.3.0",
     "@fastify/multipart": "7.3.0",
-    "fastify": "4.9.2"
+    "fastify": "4.24.1"
   }
 }
